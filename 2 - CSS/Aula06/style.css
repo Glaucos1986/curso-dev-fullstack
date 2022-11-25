@@ -1,0 +1,112 @@
+body{
+    background-color: rgba(189, 180, 180, 0.692);
+    font-size: 20px;
+    margin-left: 70px;
+    margin-right: 70px;
+    
+   
+}
+
+.foto{
+    border: 3px solid rgb(255, 255, 255);
+    width: 250px;
+    border-radius: 60%;
+    margin: 10px;
+    padding: 5px;
+    box-shadow: 0px 0px 10px #503c3c;
+
+}
+
+h1{
+    margin-bottom: 0px;
+    letter-spacing: 2px;
+    font-weight: 100;
+}
+
+h2{
+    color: rgba(8, 6, 71, 0.856);
+    margin-top: 10px;
+    font-style: italic;
+    
+
+}
+
+h3{
+    font-size: 26px;
+    
+
+}
+
+h4{
+    font-size: 24px;
+    margin-top: -15px;
+
+}
+
+.textoh5{
+    margin-top: -18px;
+    font-weight: 100;
+    font-size: 18px;
+    text-decoration: underline;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+    
+p{
+    color: rgb(0, 0, 0);
+    text-align: justify;
+    margin-left: 30px;
+    margin-right: 30px;
+   
+    
+}
+
+ul{
+    color: rgb(0, 0, 0);
+
+}
+
+.teste{
+    text-align: center;
+    margin-top: 30px;
+
+}
+
+.rede-social{
+    width: 40px;
+    margin: 10px;
+  
+}
+
+.link-decoration{
+    text-decoration: none;
+}
+
+.centralizar{
+    text-align: center;
+    margin-top: 100px;
+
+    
+}
+
+.listadetrabalho{
+    list-style: none;
+}
+
+.footer{
+    background-color: black;
+    margin-right: -70px;
+    margin-left: -70px;
+    text-align: center;
+    color: #ffff;
+    padding: 10px;
+}
+
+.footer2{
+    background-color: black;
+    margin-right: -70px;
+    margin-left: -70px;
+    margin-top: 750px;
+    text-align: center;
+    color: #ffff;
+    padding: 10px;
+}
+

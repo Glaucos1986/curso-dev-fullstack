@@ -1,0 +1,30 @@
+body{
+    background-image: url(Programacao.jpg);
+    background-position: center,center;
+    background-size: cover;   
+    background-attachment: fixed;
+     
+}
+
+.foto{
+    width: 250px;
+}
+
+h1,h2,h3{
+    color: #ffff;
+}
+
+p{
+    color: #ffff;
+    text-align: justify;
+    font-weight: bolder;
+}
+
+a{
+    color: #ffff;
+
+}
+
+ul{
+    color: #ffff;
+}
